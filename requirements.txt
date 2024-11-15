@@ -1,0 +1,5 @@
+python-dateutil
+pydantic
+setuptools
+PyYAML
+scipy
