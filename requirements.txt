@@ -3,3 +3,4 @@ pydantic
 setuptools
 PyYAML
 scipy
+sqlalchemy
