@@ -1,3 +1,30 @@
+
+## Setup Instructions
+
+After cloning the repository, you need to set the execute permissions for the `init-db.sh` script. This can be done using Git Bash or WSL on Windows, or a terminal on macOS/Linux.
+
+### Using Git Bash or WSL on Windows
+
+1. Open Git Bash or your WSL terminal.
+2. Navigate to the directory containing the `init-db.sh` file.
+3. Run the following command:
+
+    ```sh
+    chmod +x init-db.sh
+    ```
+
+### Using Terminal on macOS/Linux
+
+1. Open your terminal.
+2. Navigate to the directory containing the `init-db.sh` file.
+3. Run the following command:
+
+    ```sh
+    chmod +x init-db.sh
+    ```
+
+This will ensure that the script has the necessary execute permissions when running the Docker container.
+
 # Transaction Accounts
 
 This library provides basic functionality for working with transaction accounts.

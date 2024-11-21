@@ -7,7 +7,6 @@ from pydantic import Field
 from accounts.metadata import *
 import scipy.optimize
 
-
 class Position(BaseModel):
     amount: Decimal = Decimal(0)
 
