@@ -4,3 +4,8 @@ setuptools
 PyYAML
 scipy
 sqlalchemy
+fastapi
+pytest
+httpx
+psycopg2
+uvicorn
